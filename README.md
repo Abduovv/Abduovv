@@ -1,17 +1,6 @@
-# Abduo's Solana & Sui Security Auditor Portfolio
+# About Me
 
 Welcome to my professional portfolio! I am **Abduo**, a dedicated security auditor specializing in **Solana** and **Sui** blockchain ecosystems, with deep expertise in **Rust** and **Move** programming languages. My work focuses on identifying vulnerabilities, ensuring protocol integrity, and enhancing the security of decentralized applications.
-
-## About Me
-
-- **Name**: Abduo
-- **Role**: Blockchain Security Auditor
-- **Specialization**: Solana and Sui ecosystems
-- **Skills**: 
-  - Proficient in Rust for Solana smart contract auditing
-  - Skilled in Move for Sui protocol security analysis
-  - Vulnerability assessment, code review, and exploit mitigation
-- **Mission**: To safeguard blockchain protocols by uncovering critical bugs and providing actionable insights.
 
 ## Shadow Audit
 
