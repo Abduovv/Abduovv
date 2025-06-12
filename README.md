@@ -1,6 +1,11 @@
 # About Me
 
-Welcome to my professional portfolio! I am **Abduo**, a dedicated security auditor specializing in **Solana** and **Sui** blockchain ecosystems, with deep expertise in **Rust** and **Move** programming languages. My work focuses on identifying vulnerabilities, ensuring protocol integrity, and enhancing the security of decentralized applications.
+Welcome to my portfolio! I am **Abduo**, a dedicated security auditor specializing in **Solana** and **Sui** blockchain ecosystems, with deep expertise in **Rust** and **Move** programming languages. My work focuses on identifying vulnerabilities, ensuring protocol integrity, and enhancing the security of decentralized applications.
+
+## Contact
+
+- **Twitter**: [AbduoVo](https://x.com/AbduoVo)
+- **Telegram**: [Abduo_77](https://t.me/Abduo_77)
 
 ## Shadow Audit
 
@@ -19,9 +24,3 @@ Welcome to my professional portfolio! I am **Abduo**, a dedicated security audit
 |1|[SSSwap](https://codehawks.cyfrin.io/c/2025-05-ssswap)|[4H,3M(1)]|1/12|[📄](https://github.com/Abduovv/reports/blob/main/first_flight/SSSwap%20-%20Findings%20Report.pdf)|
 |2|[RustFund](https://codehawks.cyfrin.io/c/2025-03-rustfund)|[3H,3M,1L]|17/92|[📄](https://github.com/Abduovv/reports/blob/main/first_flight/RustFund%20-%20Findings%20Report.pdf)|
 
-
-
-## Contact
-
-- **Twitter**: [AbduoVo](https://x.com/AbduoVo)
-- **Telegram**: [Abduo_77](https://t.me/Abduo_77)
