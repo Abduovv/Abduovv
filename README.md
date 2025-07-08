@@ -1,3 +1,5 @@
+
+
 # About Me
 
 Welcome to my portfolio! I am **Abduo**, a Rust enthusiast, Solana developer, and security researcher. I build secure decentralized applications and analyze blockchain protocols to enhance their robustness.
@@ -18,3 +20,10 @@ Welcome to my portfolio! I am **Abduo**, a Rust enthusiast, Solana developer, an
 | ID | Project Name | Description | Repository Link |
 |----|--------------|-------------|-----------------|
 |    |              |             |                 |
+
+## Write-Ups
+
+| ID | Title | Description | Link |
+|----|-------|-------------|------|
+|    |       |             |      |
+
