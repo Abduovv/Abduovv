@@ -22,14 +22,15 @@ I build secure decentralized applications and analyze blockchain protocols to en
 
 | ID | Project Name  | Repository Link |
 |----|--------------|-----------------|
-| 1  |  Turbin3 Projects        | [🔧](https://github.com/Abduovv/Q3_25_Builder_Abduovv) |
-| 5  | Sui Swap       | [🔧](https://github.com/Abduovv/sui_swap_example) |
-| 6  | Sui Vulns Playground  | [🔧](https://github.com/Abduovv/move_vulns_playground) |
+| 1  |  Turbin3 Projects| [🔧](https://github.com/Abduovv/Q3_25_Builder_Abduovv)|
+| 5  | Sui Swap  | [🔧](https://github.com/Abduovv/sui_swap_example)|
+| 6  | Sui Vulns Playground | [🔧](https://github.com/Abduovv/move_vulns_playground)|
 
 ---
 
 ## 📝 Write-Ups
 
-| ID | Title | Description | Link |
-|----|-------|-------------|------|
+| ID | Title | Link |
+|----|-------|------|
+| 1  |  Sui Audit Notes       | [📝](https://github.com/Abduovv/sui_audit)|
 
