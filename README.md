@@ -20,14 +20,11 @@ I build secure decentralized applications and analyze blockchain protocols to en
 
 ## 🔧 Projects
 
-| ID | Project Name | Description | Repository Link |
-|----|--------------|-------------|-----------------|
-| 1  |  Vault        | Token vault with deposit/withdraw and fee logic. Built using Anchor. | [Link](#) |
-| 2  |  Marketplace  | A basic decentralized marketplace on Solana (Anchor). | [Link](#) |
-| 3  |  Staking      | Custom staking pool implementation with claim rewards logic. | [Link](#) |
-| 4  |  Swap         | Token swap between multiple pools using Anchor. | [Link](#) |
-| 5  | Sui Swap      | Simple AMM-style swap contract on Sui, written in Move. | [https://github.com/Abduovv/sui_swap_example](#) |
-| 6  | Sui Vulns Playground | Simulated bug. | [https://github.com/Abduovv/move_vulns_playground](#) |
+| ID | Project Name  | Repository Link |
+|----|--------------|-----------------|
+| 1  |  Turbin3 Projects        | [🔧](https://github.com/Abduovv/Q3_25_Builder_Abduovv) |
+| 5  | Sui Swap       | [🔧](https://github.com/Abduovv/sui_swap_example) |
+| 6  | Sui Vulns Playground  | [🔧](https://github.com/Abduovv/move_vulns_playground) |
 
 ---
 
