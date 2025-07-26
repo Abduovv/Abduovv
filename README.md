@@ -1,7 +1,7 @@
 # About Me
 
 Welcome to my portfolio!  
-I am **Abduo**, a Rust/Move enthusiast, Solana/Sui developer, and smart contract security researcher.  
+I am **Abduo**, a Rust/Move enthusiast, Solana/Sui security researcher.  
 I build secure decentralized applications and analyze blockchain protocols to enhance their robustness and resilience.
 
 ---
