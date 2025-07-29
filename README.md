@@ -25,8 +25,7 @@ I am **Abduo**, a Rust/Move enthusiast, Solana/Sui security researcher.
 | ID | Project Name            | Description                             | Link |
 |----|--------------------------|-----------------------------------------|-----------------|
 | 1  | Turbin3 Projects         | Solana projects built during Q3 Builder Cohort (Vault, Marketplace, etc.) | [🔧](https://github.com/Abduovv/Q3_25_Builder_Abduovv) |
-| 2  | Sui Swap                 | A simple AMM example on Sui written in Move | [🔧](https://github.com/Abduovv/sui_swap_example) |
-| 3  | Sui Vulns Playground     | Reproductions of real-world Move vulnerabilities with PoCs & tests | [🔧](https://github.com/Abduovv/move_vulns_playground) |
+
 
 ---
 
@@ -34,4 +33,3 @@ I am **Abduo**, a Rust/Move enthusiast, Solana/Sui security researcher.
 
 | ID | Title           | Link |
 |----|------------------|------|
-| 1  | Sui Audit Notes  | [📝](https://github.com/Abduovv/sui_audit) |
