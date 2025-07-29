@@ -1,7 +1,7 @@
 # About Me
 
 Welcome to my portfolio!  
-I am **Abduo**, a Rust/Move enthusiast, Solana/Sui security researcher.
+I am **Abduo**, a Rust enthusiast, Solana security researcher && developer.
 
 ---
 
