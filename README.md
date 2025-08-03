@@ -22,9 +22,10 @@ I am **Abduo**, a Rust enthusiast, Solana security researcher && developer.
 
 ## 🔧 Projects
 
-| ID | Project Name            | Description                             | Link |
-|----|--------------------------|-----------------------------------------|-----------------|
-| 1  | Turbin3 Projects         | Solana projects built during Q3 Builder Cohort (Vault, Marketplace, etc.) | [🔧](https://github.com/Abduovv/Q3_25_Builder_Abduovv) |
+| ID | Project Name     | Description                                                               | Link                                                   |
+| -- | ---------------- | ------------------------------------------------------------------------- | ------------------------------------------------------ |
+| 1  | Turbin3 Projects | Solana projects built during Q3 Builder Cohort (Vault, Marketplace, etc.) | [🔧](https://github.com/Abduovv/Q3_25_Builder_Abduovv) |
+| 2  | Flashix          | Minimal Flash Loan protocol on Solana with fee & LP handling              | [⚡](https://github.com/Abduovv/Flashix)                |
 
 
 ---
@@ -33,3 +34,5 @@ I am **Abduo**, a Rust enthusiast, Solana security researcher && developer.
 
 | ID | Title           | Link |
 |----|------------------|------|
+
+
