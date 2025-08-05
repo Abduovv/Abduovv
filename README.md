@@ -26,7 +26,7 @@ I am **Abduo**, a Rust enthusiast, Solana security researcher && developer.
 | -- | ---------------- | ------------------------------------------------------------------------- | ------------------------------------------------------ |
 | 1  | Turbin3 Projects | Solana projects built during Q3 Builder Cohort (Vault, Marketplace, etc.) | [🔧](https://github.com/Abduovv/Q3_25_Builder_Abduovv) |
 | 2  | Flashix          | Minimal Flash Loan protocol on Solana with fee & LP handling              | [⚡](https://github.com/Abduovv/Flashix)                |
-| 3  | Zeropolis        | Decentralized rotating savings cycle (ROSCA) built on Solana              | [🏙️](https://github.com/Abduovv/Zeropolis/tree/main)  |
+| 3  | Zeropolis        | Decentralized rotating savings cycle (ROSCA) built on Solana              | [🔁](https://github.com/Abduovv/Zeropolis/tree/main)  |
 
 
 ---
