@@ -14,25 +14,22 @@ I am **Abduo**, a Rust enthusiast, Solana security researcher && developer.
 
 ## 🛡️ Audit Experience
 
-| ID | Protocol | Description  | Findings | Rank | Report |
-|----|----------------|-----------------------|-------------|----------|-------------|
-| 1  |     Genius Foundation          |          Cross-chain trading & bridging (EVM ↔ Solana) with Lit Actions.              | —           | —        | [📝]()          |
-| 2 | Solayer             |      SVM-native cross-chain bridge for asset transfer and execution between Solana and Solayer.                | —           | —        | [📝]()             |
-
+| ID | Protocol | Description | Findings | Rank | Report |
+|----|----------|-------------|----------|------|--------|
+| 1  | Genius Foundation | Cross-chain trading & bridging (EVM ↔ Solana) with Lit Actions | — | — | [📑]() |
+| 2  | Solayer           | SVM-native cross-chain bridge for asset transfer & execution between Solana and Solayer | — | — | [📑]() |
 
 ---
 
 ## 🔧 Projects
 
 | ID | Project     | Description                                                               | Link                                                   |
-| -- | ---------------- | ------------------------------------------------------------------------- | ------------------------------------------------------ |
-| 1  | Turbin3 Projects | Solana projects built during Q3 Builder Cohort (Amm, Marketplace, etc.) | [🔧](https://github.com/Abduovv/Q3_25_Builder_Abduovv) |
-| 2  | Flashix          | Minimal Flash Loan protocol on Solana with fee & LP handling              | [⚡](https://github.com/Abduovv/Flashix)                |
-| 3  | RotoFi        | Decentralized rotating savings cycle (ROSCA) built on Solana              | [🔁](https://github.com/Abduovv/RotoFi/tree/main)  |
-| 4  | Solana ASM     | Playground for Solana Assembly programs | [🧩](https://github.com/Abduovv/solana-asm) |
-
+| -- | ----------- | ------------------------------------------------------------------------- | ------------------------------------------------------ |
+| 1  | Turbin3 Projects | Solana projects built during Q3 Builder Cohort (AMM, Marketplace, etc.) | [🔧](https://github.com/Abduovv/Q3_25_Builder_Abduovv) |
+| 2  | Flashix          | Minimal Flash Loan protocol on Solana with fee & LP handling           | [⚡](https://github.com/Abduovv/Flashix)               |
+| 3  | RotoFi           | Decentralized rotating savings cycle (ROSCA) built on Solana          | [🔁](https://github.com/Abduovv/RotoFi/tree/main)     |
+| 4  | Solana ASM       | Playground for Solana Assembly programs                               | [🧩](https://github.com/Abduovv/solana-asm)           |
 
 ---
 
 <img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/87705f24-a9ef-451b-ae2d-b34a57a4b355" />
-
