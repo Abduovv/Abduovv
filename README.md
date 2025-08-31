@@ -14,15 +14,17 @@ I am **Abduo**, a Rust enthusiast, Solana security researcher && developer.
 
 ## 🛡️ Audit Experience
 
-| ID | Protocol Name | Language / Ecosystem | Description | Findings | Report Link |
+| ID | Protocol | Description  | Findings | Rank | Report |
 |----|----------------|-----------------------|-------------|----------|-------------|
-| 1  | —              | —                     | —           | —        | —           |
+| 1  |     Genius Foundation          |          Cross-chain trading & bridging (EVM ↔ Solana) with Lit Actions.              | —           | —        | [📝]()          |
+| 2 | Solayer             |      SVM-native cross-chain bridge for asset transfer and execution between Solana and Solayer.                | —           | —        | [📝]()             |
+
 
 ---
 
 ## 🔧 Projects
 
-| ID | Project Name     | Description                                                               | Link                                                   |
+| ID | Project     | Description                                                               | Link                                                   |
 | -- | ---------------- | ------------------------------------------------------------------------- | ------------------------------------------------------ |
 | 1  | Turbin3 Projects | Solana projects built during Q3 Builder Cohort (Amm, Marketplace, etc.) | [🔧](https://github.com/Abduovv/Q3_25_Builder_Abduovv) |
 | 2  | Flashix          | Minimal Flash Loan protocol on Solana with fee & LP handling              | [⚡](https://github.com/Abduovv/Flashix)                |
