@@ -14,7 +14,7 @@ I am **Abduo**, a Rust enthusiast, Solana security researcher && developer.
 
 ## 🛡️ Audit Experience
 
-| ID | Protocol | Description | Findings | Rank | Report |
+| ID | Contest | Description | Findings | Rank | Report |
 |----|----------|-------------|----------|------|--------|
 | 1  | Genius Foundation | Cross-chain trading & bridging (EVM ↔ Solana) with Lit Actions | — | — | [📑]() |
 | 2  | Solayer           | SVM-native cross-chain bridge for asset transfer & execution between Solana and Solayer | — | — | [📑]() |
