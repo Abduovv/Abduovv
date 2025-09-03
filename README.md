@@ -12,7 +12,7 @@ I am **Abduo**, a Rust enthusiast, Solana security researcher && developer.
 
 ---
 
-## 🛡️ Audit Experience
+## 🛡️ Audits
 
 | ID | Contest | Platform | Description | Rank | Findings |
 |----|----------|-------------|----------|------|--------|
