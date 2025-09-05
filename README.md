@@ -16,7 +16,7 @@ I am **Abduo**, a Rust enthusiast, Solana security researcher && developer.
 
 | ID | Contest | Platform | Description | Rank | Findings |
 |----|----------|-------------|----------|------|--------|
-| 1  | Genius Foundation | Cantina | Cross-chain trading & bridging (EVM ↔ Solana) with Lit Actions | — | 1M/1L/3I |
+| 1  | Genius Foundation | Cantina | Cross-chain trading & bridging (EVM ↔ Solana) with Lit Actions | 10th | 1M/1L/3I |
 | 2  | Solayer           | Cantina | SVM-native cross-chain bridge for asset transfer & execution between Solana and Solayer | — | [📑]() |
 
 ---
