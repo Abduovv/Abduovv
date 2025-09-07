@@ -32,4 +32,4 @@ I am **Abduo**, a Rust enthusiast, Solana security researcher && developer.
 
 ---
 
-<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/90d06e84-0b5a-4cc0-9ea7-f875bd53b902" />
+<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/81180d57-d2b2-4e0d-9a38-0014fe68bc86" />
