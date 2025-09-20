@@ -33,4 +33,4 @@ Graduate of **Turbin3 Builders Cohort (Q3 2025)** and **Ackee Developers Bootcam
 
 ---
 
-<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/07de9ffb-d052-429f-b71c-8023cb261429" />
+<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/5de4fa0a-4c28-4305-b8c1-82d71238a952" />
