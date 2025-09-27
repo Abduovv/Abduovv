@@ -22,7 +22,7 @@ Graduate of **Turbin3 Builders Cohort (Q3 2025)** and **Ackee Developers Bootcam
 
 ---
 
-## 🔧 Projects
+## 🏗️ Builds 
 
 | ID | Project     | Description                                                               | Link                                                   |
 | -- | ----------- | ------------------------------------------------------------------------- | ------------------------------------------------------ |
