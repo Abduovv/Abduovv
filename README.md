@@ -19,6 +19,8 @@ Graduate of **Turbin3 Builders Cohort (Q3 2025)** and **Ackee Developers Bootcam
 |----|----------|-------------|----------|------|--------|
 | 1  | Genius Foundation | Cantina | Cross-chain trading & bridging (EVM ↔ Solana) with Lit Actions | 10th | 1M/1L/3I |
 | 2  | Solayer           | Cantina | SVM-native cross-chain bridge for asset transfer & execution between Solana and Solayer | — | [📑]() |
+| 3  | PrimeSkill FPS game           | Superteam | A Solana FPS where players stake tokens and winners take the pot. | — | [📑](https://github.com/Abduovv/reports/blob/main/wager-program-audit-report.md) |
+
 
 ---
 
