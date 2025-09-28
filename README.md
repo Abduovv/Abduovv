@@ -28,7 +28,7 @@ Graduate of **Turbin3 Builders Cohort (Q3 2025)** and **Ackee Developers Bootcam
 
 | ID | Project     | Description                                                               | Link                                                   |
 | -- | ----------- | ------------------------------------------------------------------------- | ------------------------------------------------------ |
-| 1  | Turbin3 Projects | Solana projects built during Q3 Builder Cohort (AMM, Marketplace, etc.) | [🔧](https://github.com/Abduovv/Q3_25_Builder_Abduovv) |
+| 1  | Turbin3 Builders | Solana projects built during Q3 Builder Cohort (AMM, Marketplace, etc.) | [🔧](https://github.com/Abduovv/Q3_25_Builder_Abduovv) |
 | 2  | Flashix          | Minimal Flash Loan protocol on Solana with fee & LP handling           | [⚡](https://github.com/Abduovv/Flashix)               |
 | 3  | RotoFi           | Decentralized rotating savings cycle (ROSCA) built on Solana          | [🔁](https://github.com/Abduovv/RotoFi/tree/main)     |
 | 4  | Solana ASM       | Playground for Solana Assembly programs                               | [🧩](https://github.com/Abduovv/solana-asm)           |
