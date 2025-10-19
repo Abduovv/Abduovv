@@ -34,7 +34,3 @@ Graduate of **Turbin3 Builders Cohort (Q3 2025)** and **Ackee Developers Bootcam
 | 4  | RotoFi                    | Decentralized rotating savings cycle (ROSCA) built on Solana               | [🔁](https://github.com/Abduovv/RotoFi/tree/main)      |
 | 5  | Solana ASM                | Playground for Solana Assembly programs                                    | [🧩](https://github.com/Abduovv/solana-asm)            |
 
----
-
-<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/db680bbb-6667-4e3f-a729-68173611ee34" />
-
