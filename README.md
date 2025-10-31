@@ -30,5 +30,7 @@ Graduate of **Turbin3 Builders Cohort (Q3 2025)** and **Ackee Developers Bootcam
 | -- | ------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------ |
 | 1  | Turbin3 Builders          | Solana projects built during Q3 Builder Cohort (AMM, Marketplace, etc.)    | [🔧](https://github.com/Abduovv/Q3_25_Builder_Abduovv) |
 | 2  | Turbin3 Accelerate Cohort | Advanced Solana projects developed during the Accelerate program (Q4 2025) | [🚀](https://github.com/Abduovv/Q4_2025_Accel_Abduovv) |
-| 3  | RotoFi                    | Decentralized rotating savings cycle (ROSCA) built on Solana               | [🔁](https://github.com/Abduovv/RotoFi/tree/main)      |
+| 3  | RotoFi                    | rotating savings cycle (ROSCA) built on Solana               | [🔁](https://github.com/Abduovv/RotoFi/tree/main)      |
+| 3  | VeriFi                    | AI-powered invoice verification system using VRF randomness| [👁️](https://github.com/Turbin3/accel-VeriFi)      |
+
 
