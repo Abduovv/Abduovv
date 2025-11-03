@@ -2,7 +2,7 @@
 
 Welcome to my portfolio!  
 I am **Abduo**, a Rust enthusiast, Solana security researcher && developer.  
-Graduate of **Turbin3 Builders Cohort (Q3 2025)** and **Ackee Developers Bootcamp (Season 7)**.
+Graduate of **Turbin3 Accelerate Builders Cohort (Q3 2025)** and **Ackee Developers Bootcamp (Season 7)**.
 
 ---
 
