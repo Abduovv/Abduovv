@@ -33,7 +33,4 @@ Graduate of **Turbin3 Builders Cohort (Q3 2025)** and **Ackee Developers Bootcam
 | 3  | RotoFi                    | rotating savings cycle (ROSCA) built on Solana               | [🔁](https://github.com/Abduovv/RotoFi/tree/main)      |
 | 4  | VeriFi                    | AI-powered invoice verification system using VRF randomness| [👁️](https://github.com/Turbin3/accel-VeriFi)      |
 | 5  | Flashix                    |  A lightweight flash loan protocol on Solana | [⚡]([https://github.com/Turbin3/accel-VeriFi](https://github.com/Abduovv/Flashix))      |
-
-
-
-
+| 6  | Aucchio                    | NFT Dutch Auction built using Pinocchio | [⌛](https://github.com/Abduovv/Aucchio)      |
