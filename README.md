@@ -10,6 +10,7 @@ Graduate of **Turbin3 Builders Cohort (Q3 2025)** and **Ackee Developers Bootcam
 
 - **Twitter**: [@AbduoVo](https://x.com/AbduoVo)
 - **Telegram**: [@Abduo_77](https://t.me/Abduo_77)
+- **My CV**: [📄](https://drive.google.com/drive/u/2/folders/17JtofzNOZ9TkA2nBby2gObUeiUXML5B1) 
 
 ---
 
